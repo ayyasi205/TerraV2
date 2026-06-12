@@ -22,7 +22,6 @@ if (!isset($_SESSION['user_email'])) {
     </div>
 
 
-
     <!-- App Viewport -->
     <div class="app-viewport">
         <?php
