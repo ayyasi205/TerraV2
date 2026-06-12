@@ -21,7 +21,6 @@ if (!isset($_SESSION['user_email'])) {
       </div>
     </div>
 
-    <div><p>"hai"</p></div>
 
     <!-- App Viewport -->
     <div class="app-viewport">
