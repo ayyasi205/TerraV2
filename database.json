@@ -1,0 +1,481 @@
+{
+  "mountains": [
+    {
+      "id": "merbabu",
+      "name": "Gunung Merbabu",
+      "elevation": "3.142 mdpl",
+      "location": "Jawa Tengah",
+      "description": "Terkenal dengan keindahan sabananya yang hijau luas dan pemandangan Gunung Merapi yang megah.",
+      "image_url": "https:\/\/images.unsplash.com\/photo-1627662236973-4f8259fa2441?auto=format&fit=crop&w=600&q=80",
+      "density": "Sedang",
+      "weather": {
+        "current": "Cerah Berawan",
+        "temp": "14\u00b0C",
+        "wind": "12 km\/jam",
+        "humidity": "65%",
+        "forecast": "Cerah berawan di pagi hari, hujan ringan menjelang sore.",
+        "warnings": []
+      },
+      "quota": {
+        "total": 250,
+        "active_climbers": 166,
+        "remaining": 84
+      },
+      "routes": [
+        {
+          "name": "Via Selo",
+          "duration": "6-8 Jam",
+          "map": {
+            "posts": [
+              {
+                "name": "Basecamp Selo",
+                "type": "start",
+                "coords": [
+                  10,
+                  85
+                ]
+              },
+              {
+                "name": "Pos 1 Dok Malang",
+                "type": "post",
+                "coords": [
+                  25,
+                  75
+                ]
+              },
+              {
+                "name": "Pos 2 Kupang",
+                "type": "water",
+                "coords": [
+                  40,
+                  60
+                ]
+              },
+              {
+                "name": "Pos 3 Watu Tulis",
+                "type": "post",
+                "coords": [
+                  55,
+                  50
+                ]
+              },
+              {
+                "name": "Pos 4 Sabana 1",
+                "type": "camp",
+                "coords": [
+                  70,
+                  35
+                ]
+              },
+              {
+                "name": "Pos 5 Sabana 2",
+                "type": "camp",
+                "coords": [
+                  82,
+                  25
+                ]
+              },
+              {
+                "name": "Puncak Kenteng Songo",
+                "type": "peak",
+                "coords": [
+                  95,
+                  10
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Via Suwanting",
+          "duration": "7-9 Jam",
+          "map": {
+            "posts": [
+              {
+                "name": "Basecamp Suwanting",
+                "type": "start",
+                "coords": [
+                  10,
+                  90
+                ]
+              },
+              {
+                "name": "Pos 1 Lembah Lemu",
+                "type": "post",
+                "coords": [
+                  28,
+                  80
+                ]
+              },
+              {
+                "name": "Pos 2 Lembah Cemara",
+                "type": "water",
+                "coords": [
+                  45,
+                  65
+                ]
+              },
+              {
+                "name": "Pos 3 Dampo Awang",
+                "type": "camp",
+                "coords": [
+                  72,
+                  40
+                ]
+              },
+              {
+                "name": "Puncak Triangulasi",
+                "type": "peak",
+                "coords": [
+                  95,
+                  10
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "semeru",
+      "name": "Gunung Semeru",
+      "elevation": "3.676 mdpl",
+      "location": "Jawa Timur",
+      "description": "Atap Pulau Jawa. Terkenal dengan Danau Ranu Kumbolo dan kawah Jonggring Saloko yang legendaris.",
+      "image_url": "https:\/\/images.unsplash.com\/photo-1589308078059-be1415eab4c3?auto=format&fit=crop&w=600&q=80",
+      "density": "Sangat Ramai",
+      "weather": {
+        "current": "Hujan Lebat",
+        "temp": "10\u00b0C",
+        "wind": "35 km\/jam",
+        "humidity": "95%",
+        "forecast": "Hujan deras disertai angin kencang berpotensi terjadi sepanjang hari.",
+        "warnings": [
+          "Peringatan Hujan Lebat di wilayah lereng Semeru",
+          "Peringatan Angin Kencang di atas Pos 4"
+        ]
+      },
+      "quota": {
+        "total": 300,
+        "active_climbers": 298,
+        "remaining": 2
+      },
+      "routes": [
+        {
+          "name": "Via Ranupani",
+          "duration": "10-12 Jam",
+          "map": {
+            "posts": [
+              {
+                "name": "Basecamp Ranupani",
+                "type": "start",
+                "coords": [
+                  5,
+                  80
+                ]
+              },
+              {
+                "name": "Landengan Dowo",
+                "type": "post",
+                "coords": [
+                  20,
+                  75
+                ]
+              },
+              {
+                "name": "Watu Rejeng",
+                "type": "post",
+                "coords": [
+                  35,
+                  70
+                ]
+              },
+              {
+                "name": "Ranu Kumbolo",
+                "type": "water",
+                "coords": [
+                  50,
+                  55
+                ]
+              },
+              {
+                "name": "Oro-oro Ombo",
+                "type": "post",
+                "coords": [
+                  62,
+                  50
+                ]
+              },
+              {
+                "name": "Cemoro Kandang",
+                "type": "post",
+                "coords": [
+                  70,
+                  45
+                ]
+              },
+              {
+                "name": "Kalimati",
+                "type": "camp",
+                "coords": [
+                  80,
+                  30
+                ]
+              },
+              {
+                "name": "Arcopodo",
+                "type": "post",
+                "coords": [
+                  88,
+                  20
+                ]
+              },
+              {
+                "name": "Puncak Mahameru",
+                "type": "peak",
+                "coords": [
+                  95,
+                  10
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "rinjani",
+      "name": "Gunung Rinjani",
+      "elevation": "3.726 mdpl",
+      "location": "Nusa Tenggara Barat",
+      "description": "Gunung berapi aktif tertinggi kedua di Indonesia dengan keindahan Danau Segara Anak di kalderanya.",
+      "image_url": "https:\/\/images.unsplash.com\/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80",
+      "density": "Sepi",
+      "weather": {
+        "current": "Cerah",
+        "temp": "18\u00b0C",
+        "wind": "8 km\/jam",
+        "humidity": "55%",
+        "forecast": "Cerah sepanjang hari, ideal untuk pendakian.",
+        "warnings": []
+      },
+      "quota": {
+        "total": 150,
+        "active_climbers": 59,
+        "remaining": 91
+      },
+      "routes": [
+        {
+          "name": "Via Sembalun",
+          "duration": "10-14 Jam",
+          "map": {
+            "posts": [
+              {
+                "name": "Basecamp Sembalun",
+                "type": "start",
+                "coords": [
+                  10,
+                  85
+                ]
+              },
+              {
+                "name": "Pos 1 Pemantauan",
+                "type": "post",
+                "coords": [
+                  25,
+                  78
+                ]
+              },
+              {
+                "name": "Pos 2 Tengengean",
+                "type": "water",
+                "coords": [
+                  40,
+                  68
+                ]
+              },
+              {
+                "name": "Pos 3 Pada Balong",
+                "type": "post",
+                "coords": [
+                  55,
+                  55
+                ]
+              },
+              {
+                "name": "Pos 4 Sembalun Lawang",
+                "type": "post",
+                "coords": [
+                  70,
+                  45
+                ]
+              },
+              {
+                "name": "Plawangan Sembalun",
+                "type": "camp",
+                "coords": [
+                  85,
+                  30
+                ]
+              },
+              {
+                "name": "Puncak Rinjani",
+                "type": "peak",
+                "coords": [
+                  96,
+                  10
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "gede",
+      "name": "Gunung Gede",
+      "elevation": "2.958 mdpl",
+      "location": "Jawa Barat",
+      "description": "Taman Nasional yang kaya akan flora dan fauna. Terkenal dengan Alun-alun Suryakencana yang ditumbuhi Edelweiss.",
+      "image_url": "https:\/\/images.unsplash.com\/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=600&q=80",
+      "density": "Ramai",
+      "weather": {
+        "current": "Berawan Tebal",
+        "temp": "16\u00b0C",
+        "wind": "15 km\/jam",
+        "humidity": "80%",
+        "forecast": "Mendung tebal, potensi hujan sedang di sore hari.",
+        "warnings": []
+      },
+      "quota": {
+        "total": 400,
+        "active_climbers": 194,
+        "remaining": 206
+      },
+      "routes": [
+        {
+          "name": "Via Cibodas",
+          "duration": "7-9 Jam",
+          "map": {
+            "posts": [
+              {
+                "name": "Basecamp Cibodas",
+                "type": "start",
+                "coords": [
+                  5,
+                  88
+                ]
+              },
+              {
+                "name": "Telaga Biru",
+                "type": "post",
+                "coords": [
+                  20,
+                  80
+                ]
+              },
+              {
+                "name": "Pos Panyangcangan",
+                "type": "post",
+                "coords": [
+                  35,
+                  70
+                ]
+              },
+              {
+                "name": "Air Panas",
+                "type": "water",
+                "coords": [
+                  50,
+                  58
+                ]
+              },
+              {
+                "name": "Kandang Batu",
+                "type": "post",
+                "coords": [
+                  62,
+                  50
+                ]
+              },
+              {
+                "name": "Kandang Badak",
+                "type": "camp",
+                "coords": [
+                  78,
+                  35
+                ]
+              },
+              {
+                "name": "Puncak Gunung Gede",
+                "type": "peak",
+                "coords": [
+                  95,
+                  10
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "email": "puki@gmail.com",
+      "password": "Prabowo"
+    }
+  ],
+  "tickets": [
+    {
+      "id": "TERRA-570D4746",
+      "user_email": "puki@gmail.com",
+      "mountain_id": "rinjani",
+      "basecamp": "Via Sembalun",
+      "climb_date": "2026-06-11",
+      "members": [
+        {
+          "name": "Pukimai",
+          "ktp": "1234567890123456"
+        }
+      ],
+      "created_at": "2026-06-11 06:02:48"
+    },
+    {
+      "id": "TERRA-C578A54C",
+      "user_email": "puki@gmail.com",
+      "mountain_id": "gede",
+      "basecamp": "Via Cibodas",
+      "climb_date": "2026-06-12",
+      "members": [
+        {
+          "name": "Pukimai",
+          "ktp": "1234567890123456"
+        },
+        {
+          "name": "Pukimai2",
+          "ktp": "1234567890123456"
+        }
+      ],
+      "created_at": "2026-06-11 06:04:19"
+    },
+    {
+      "id": "TERRA-D0BC4BCA",
+      "user_email": "puki@gmail.com",
+      "mountain_id": "gede",
+      "basecamp": "Via Cibodas",
+      "climb_date": "2026-06-12",
+      "members": [
+        {
+          "name": "Pukimai",
+          "ktp": "1234567890123456"
+        },
+        {
+          "name": "Pukimai2",
+          "ktp": "1234567890123456"
+        }
+      ],
+      "created_at": "2026-06-11 06:39:54"
+    }
+  ]
+}
